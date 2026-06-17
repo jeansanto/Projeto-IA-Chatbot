@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const GROQ_API_KEY = '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';
+const GROQ_API_KEY = '';
 
 const API_URL = 'https://api.groq.com/openai/v1/chat/completions';
 
