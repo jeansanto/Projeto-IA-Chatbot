@@ -99,3 +99,5 @@ http://localhost:5173
 ```
 
 ---
+
+<img width="1364" height="598" alt="Screenshot_19" src="https://github.com/user-attachments/assets/79127fc6-9db5-4aa6-9037-c66dc5116c86"/>
